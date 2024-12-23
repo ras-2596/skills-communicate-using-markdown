@@ -6,9 +6,11 @@
 ##### <h5> header 5
 ###### <h6> last size!
 
-
 ![CyberSecurity Photo](https://github.com/user-attachments/assets/1e54f53a-3b46-4700-a8e4-9acd5e81f0bf)
 
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
@@ -22,6 +24,6 @@
 
 
 
-
-
-#### I added heading sizes to test the sizes
+#### I added heading sizes to test the sizes (easy)
+#### I added a photo! (Took a moment to figure it out)
+#### I added code (Not completely sure how to do it - will need practice)
