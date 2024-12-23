@@ -11,19 +11,13 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
-
-
-
-
-
-
-
-
-
-
+- [ ] Create a task list
+- [ ] Understand each concept
+- [ ] Start Portfolio
+- [ ] Keep moving through Github courses
 
 
 #### I added heading sizes to test the sizes (easy)
 #### I added a photo! (Took a moment to figure it out)
 #### I added code (Not completely sure how to do it - will need practice)
+#### I added a task list (easy)
